@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "r/+SqoEPn55XOz5NMLpMsJxQrMQf6JrzuTi9GdMntotHYK2AKjEJ14fV5/kCZ6KpCAZkItH0dbiYXlr8Xgi6nA==",
+  "success": true,
+  "projectFilePath": "/home/emilio/Documents/Projects/EmployeeVSCode/src/EmployeeAppVSCode.EmployeeComponent/EmployeeAppVSCode.EmployeeComponent.csproj",
+  "expectedPackageFiles": [
+    "/home/emilio/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/emilio/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

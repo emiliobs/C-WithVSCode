@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "EmployeeAppVSCode.EmployeeConsoleApp/1.0.0": {
+        "dependencies": {
+          "EmployeeAppVSCode.EmployeeComponent": "1.0.0"
+        },
+        "runtime": {
+          "EmployeeAppVSCode.EmployeeConsoleApp.dll": {}
+        }
+      },
+      "EmployeeAppVSCode.EmployeeComponent/1.0.0": {
+        "runtime": {
+          "EmployeeAppVSCode.EmployeeComponent.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmployeeAppVSCode.EmployeeConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmployeeAppVSCode.EmployeeComponent/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+/home/emilio/Documents/Projects/EmployeeVSCode/src/EmployeeAppVSCode.EmployeeConsoleApp/obj/Debug/netcoreapp3.1/EmployeeAppVSCode.EmployeeConsoleApp.csprojAssemblyReference.cache
+/home/emilio/Documents/Projects/EmployeeVSCode/src/EmployeeAppVSCode.EmployeeConsoleApp/obj/Debug/netcoreapp3.1/EmployeeAppVSCode.EmployeeConsoleApp.AssemblyInfoInputs.cache
+/home/emilio/Documents/Projects/EmployeeVSCode/src/EmployeeAppVSCode.EmployeeConsoleApp/obj/Debug/netcoreapp3.1/EmployeeAppVSCode.EmployeeConsoleApp.AssemblyInfo.cs
+/home/emilio/Documents/Projects/EmployeeVSCode/src/EmployeeAppVSCode.EmployeeConsoleApp/obj/Debug/netcoreapp3.1/EmployeeAppVSCode.EmployeeConsoleApp.csproj.CoreCompileInputs.cache
+/home/emilio/Documents/Projects/EmployeeVSCode/src/EmployeeAppVSCode.EmployeeConsoleApp/bin/Debug/netcoreapp3.1/EmployeeAppVSCode.EmployeeConsoleApp
+/home/emilio/Documents/Projects/EmployeeVSCode/src/EmployeeAppVSCode.EmployeeConsoleApp/bin/Debug/netcoreapp3.1/EmployeeAppVSCode.EmployeeConsoleApp.deps.json
+/home/emilio/Documents/Projects/EmployeeVSCode/src/EmployeeAppVSCode.EmployeeConsoleApp/bin/Debug/netcoreapp3.1/EmployeeAppVSCode.EmployeeConsoleApp.runtimeconfig.json
+/home/emilio/Documents/Projects/EmployeeVSCode/src/EmployeeAppVSCode.EmployeeConsoleApp/bin/Debug/netcoreapp3.1/EmployeeAppVSCode.EmployeeConsoleApp.runtimeconfig.dev.json
+/home/emilio/Documents/Projects/EmployeeVSCode/src/EmployeeAppVSCode.EmployeeConsoleApp/bin/Debug/netcoreapp3.1/EmployeeAppVSCode.EmployeeConsoleApp.dll
+/home/emilio/Documents/Projects/EmployeeVSCode/src/EmployeeAppVSCode.EmployeeConsoleApp/bin/Debug/netcoreapp3.1/EmployeeAppVSCode.EmployeeConsoleApp.pdb
+/home/emilio/Documents/Projects/EmployeeVSCode/src/EmployeeAppVSCode.EmployeeConsoleApp/bin/Debug/netcoreapp3.1/EmployeeAppVSCode.EmployeeComponent.dll
+/home/emilio/Documents/Projects/EmployeeVSCode/src/EmployeeAppVSCode.EmployeeConsoleApp/bin/Debug/netcoreapp3.1/EmployeeAppVSCode.EmployeeComponent.pdb
+/home/emilio/Documents/Projects/EmployeeVSCode/src/EmployeeAppVSCode.EmployeeConsoleApp/obj/Debug/netcoreapp3.1/EmployeeAppVSCode.EmployeeConsoleApp.csproj.CopyComplete
+/home/emilio/Documents/Projects/EmployeeVSCode/src/EmployeeAppVSCode.EmployeeConsoleApp/obj/Debug/netcoreapp3.1/EmployeeAppVSCode.EmployeeConsoleApp.dll
+/home/emilio/Documents/Projects/EmployeeVSCode/src/EmployeeAppVSCode.EmployeeConsoleApp/obj/Debug/netcoreapp3.1/EmployeeAppVSCode.EmployeeConsoleApp.pdb
+/home/emilio/Documents/Projects/EmployeeVSCode/src/EmployeeAppVSCode.EmployeeConsoleApp/obj/Debug/netcoreapp3.1/EmployeeAppVSCode.EmployeeConsoleApp.genruntimeconfig.cache

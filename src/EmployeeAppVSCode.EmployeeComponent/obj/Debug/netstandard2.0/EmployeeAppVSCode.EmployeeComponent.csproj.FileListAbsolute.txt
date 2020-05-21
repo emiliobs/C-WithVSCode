@@ -1,0 +1,9 @@
+/home/emilio/Documents/Projects/EmployeeVSCode/src/EmployeeAppVSCode.EmployeeComponent/obj/Debug/netstandard2.0/EmployeeAppVSCode.EmployeeComponent.csprojAssemblyReference.cache
+/home/emilio/Documents/Projects/EmployeeVSCode/src/EmployeeAppVSCode.EmployeeComponent/obj/Debug/netstandard2.0/EmployeeAppVSCode.EmployeeComponent.AssemblyInfoInputs.cache
+/home/emilio/Documents/Projects/EmployeeVSCode/src/EmployeeAppVSCode.EmployeeComponent/obj/Debug/netstandard2.0/EmployeeAppVSCode.EmployeeComponent.AssemblyInfo.cs
+/home/emilio/Documents/Projects/EmployeeVSCode/src/EmployeeAppVSCode.EmployeeComponent/obj/Debug/netstandard2.0/EmployeeAppVSCode.EmployeeComponent.csproj.CoreCompileInputs.cache
+/home/emilio/Documents/Projects/EmployeeVSCode/src/EmployeeAppVSCode.EmployeeComponent/bin/Debug/netstandard2.0/EmployeeAppVSCode.EmployeeComponent.deps.json
+/home/emilio/Documents/Projects/EmployeeVSCode/src/EmployeeAppVSCode.EmployeeComponent/bin/Debug/netstandard2.0/EmployeeAppVSCode.EmployeeComponent.dll
+/home/emilio/Documents/Projects/EmployeeVSCode/src/EmployeeAppVSCode.EmployeeComponent/bin/Debug/netstandard2.0/EmployeeAppVSCode.EmployeeComponent.pdb
+/home/emilio/Documents/Projects/EmployeeVSCode/src/EmployeeAppVSCode.EmployeeComponent/obj/Debug/netstandard2.0/EmployeeAppVSCode.EmployeeComponent.dll
+/home/emilio/Documents/Projects/EmployeeVSCode/src/EmployeeAppVSCode.EmployeeComponent/obj/Debug/netstandard2.0/EmployeeAppVSCode.EmployeeComponent.pdb
